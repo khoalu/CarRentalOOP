@@ -1,0 +1,321 @@
+# depslib dependency file v1.0
+1568186736 source:c:\users\user\desktop\oop\carrentaloop\main.cpp
+	<iostream>
+	<vector>
+	"Contract.h"
+	"Vehicle.h"
+	"Datetime.h"
+	"VehicleStorage.h"
+
+1568183303 c:\users\user\desktop\oop\carrentaloop\include\contract.h
+	<string>
+
+1568182952 source:c:\users\user\desktop\oop\carrentaloop\src\contract.cpp
+	"Contract.h"
+
+1568185701 c:\users\user\desktop\oop\carrentaloop\contract.h
+	<string>
+	"Datetime.h"
+
+1568184664 c:\users\user\desktop\oop\carrentaloop\datetime.h
+
+1568186792 c:\users\user\desktop\oop\carrentaloop\vehicle.h
+
+1568186797 c:\users\user\desktop\oop\carrentaloop\vehiclestorage.h
+
+1573714717 source:c:\users\user\desktop\carrentaloop\main.cpp
+	<iostream>
+	<vector>
+	"CarRentalManagement.h"
+	"Datetime.h"
+	"ServiceHistory.h"
+
+1573058506 c:\users\user\desktop\carrentaloop\contract.h
+	<string>
+	"Datetime.h"
+
+1573716150 c:\users\user\desktop\carrentaloop\datetime.h
+	<cstdio>
+
+1573714412 c:\users\user\desktop\carrentaloop\vehicle.h
+	<string>
+	"VehiclePrimitives.h"
+	"ServiceHistory.h"
+
+1568786650 c:\users\user\desktop\carrentaloop\vehiclestorage.h
+
+1573058510 c:\users\user\desktop\carrentaloop\vehicleprimitives.h
+
+1573716615 c:\users\user\desktop\carrentaloop\carrentalmanagement.h
+	<vector>
+	"Vehicle.h"
+	"Contract.h"
+	"IBookAndRent.h"
+
+1573716256 c:\users\user\desktop\carrentaloop\servicehistory.h
+	<vector>
+	"Datetime.h"
+
+1573058506 c:\users\user\desktop\carrentaloop\ibookandrent.h
+
+1573111200 source:c:\users\user\desktop\2019-10-03\carrentaloop\main.cpp
+	<iostream>
+	<vector>
+	"CarRentalManagement.h"
+	"Datetime.h"
+
+1573111150 c:\users\user\desktop\2019-10-03\carrentaloop\carrentalmanagement.h
+	<vector>
+	"Vehicle.h"
+	"Contract.h"
+	"IBookAndRent.h"
+
+1573110956 c:\users\user\desktop\2019-10-03\carrentaloop\vehicle.h
+	<string>
+	"VehiclePrimitives.h"
+	"ServiceHistory.h"
+
+1570038724 c:\users\user\desktop\2019-10-03\carrentaloop\vehicleprimitives.h
+
+1573111732 c:\users\user\desktop\2019-10-03\carrentaloop\servicehistory.h
+	<vector>
+	"Datetime.h"
+
+1573111361 c:\users\user\desktop\2019-10-03\carrentaloop\datetime.h
+	<cstdio>
+
+1570038722 c:\users\user\desktop\2019-10-03\carrentaloop\contract.h
+	<string>
+	"Datetime.h"
+
+1573111069 c:\users\user\desktop\2019-10-03\carrentaloop\ibookandrent.h
+
+1574571489 source:c:\users\khoa\desktop\carrentaloop\main.cpp
+	<iostream>
+	<vector>
+	"CarRentalManagement.h"
+
+1574567363 c:\users\khoa\desktop\carrentaloop\carrentalmanagement.h
+	<vector>
+	"Vehicle.h"
+	"Contract.h"
+	"IBookAndRent.h"
+
+1574571122 c:\users\khoa\desktop\carrentaloop\vehicle.h
+	<string>
+	"VehiclePrimitives.h"
+	"ServiceHistory.h"
+
+1573663320 c:\users\khoa\desktop\carrentaloop\vehicleprimitives.h
+
+1574571154 c:\users\khoa\desktop\carrentaloop\servicehistory.h
+	<vector>
+	"Datetime.h"
+	"IJSONHandle.h"
+
+1574568258 c:\users\khoa\desktop\carrentaloop\datetime.h
+	<cstdio>
+	<sstream>
+	"IJsonHandle.h"
+
+1574567418 c:\users\khoa\desktop\carrentaloop\contract.h
+	<string>
+	"Datetime.h"
+
+1574567408 c:\users\khoa\desktop\carrentaloop\ibookandrent.h
+	<bitset>
+	<vector>
+	"Contract.h"
+
+1574415221 c:\users\khoa\desktop\carrentaloop\include\ijsonhandle.h
+	<fstream>
+	<string>
+	<vector>
+	"rapidjson/rapidjson.h"
+	"rapidjson/document.h"
+	"rapidjson/istreamwrapper.h"
+	"rapidjson/ostreamwrapper.h"
+	"rapidjson/prettywriter.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\rapidjson.h
+	<cstdlib>
+	<cstring>
+	"rapidjson/..."
+	<string>
+	"msinttypes/stdint.h"
+	"msinttypes/inttypes.h"
+	<stdint.h>
+	<inttypes.h>
+	<endian.h>
+	"rapidjson/..."
+	<cassert>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\msinttypes\stdint.h
+	<stdint.h>
+	<limits.h>
+	<wchar.h>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\msinttypes\inttypes.h
+	"stdint.h"
+	<inttypes.h>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\document.h
+	"reader.h"
+	"internal/meta.h"
+	"internal/strfunc.h"
+	"memorystream.h"
+	"encodedstream.h"
+	<new>
+	<limits>
+	<iterator>
+	<utility>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\reader.h
+	"allocators.h"
+	"stream.h"
+	"encodedstream.h"
+	"internal/clzll.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strtod.h"
+	<limits>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<stdexcept>
+	"rapidjson/error/error.h"
+	"rapidjson/reader.h"
+	"error/error.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\allocators.h
+	"rapidjson.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\stream.h
+	"rapidjson.h"
+	"encodings.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\encodings.h
+	"rapidjson.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\encodedstream.h
+	"stream.h"
+	"memorystream.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\memorystream.h
+	"stream.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\clzll.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\meta.h
+	"../rapidjson.h"
+	<type_traits>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\stack.h
+	"../allocators.h"
+	"swap.h"
+	<cstddef>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\swap.h
+	"../rapidjson.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\strtod.h
+	"ieee754.h"
+	"biginteger.h"
+	"diyfp.h"
+	"pow10.h"
+	<climits>
+	<limits>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\ieee754.h
+	"../rapidjson.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\biginteger.h
+	"../rapidjson.h"
+	<intrin.h>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\diyfp.h
+	"../rapidjson.h"
+	"clzll.h"
+	<limits>
+	<intrin.h>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\pow10.h
+	"../rapidjson.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\error\error.h
+	"../rapidjson.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\strfunc.h
+	"../stream.h"
+	<cwchar>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\istreamwrapper.h
+	"stream.h"
+	<iosfwd>
+	<ios>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\ostreamwrapper.h
+	"stream.h"
+	<iosfwd>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\prettywriter.h
+	"writer.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\writer.h
+	"stream.h"
+	"internal/clzll.h"
+	"internal/meta.h"
+	"internal/stack.h"
+	"internal/strfunc.h"
+	"internal/dtoa.h"
+	"internal/itoa.h"
+	"stringbuffer.h"
+	<new>
+	<intrin.h>
+	<nmmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\dtoa.h
+	"itoa.h"
+	"diyfp.h"
+	"ieee754.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\internal\itoa.h
+	"../rapidjson.h"
+
+1573412634 d:\coding\externallibrary\rapidjson-master\include\rapidjson\stringbuffer.h
+	"stream.h"
+	"internal/stack.h"
+	<utility>
+	"internal/stack.h"
+
+1574571122 c:\users\khoa\desktop\carrentaloop\include\vehicle.h
+	<string>
+	"VehiclePrimitives.h"
+	"ServiceHistory.h"
+
+1573663320 c:\users\khoa\desktop\carrentaloop\include\vehicleprimitives.h
+
+1574571154 c:\users\khoa\desktop\carrentaloop\include\servicehistory.h
+	<vector>
+	"Datetime.h"
+	"IJSONHandle.h"
+
+1574568258 c:\users\khoa\desktop\carrentaloop\include\datetime.h
+	<cstdio>
+	<sstream>
+	"IJsonHandle.h"
+
+1574567418 c:\users\khoa\desktop\carrentaloop\include\contract.h
+	<string>
+	"Datetime.h"
+
+1574567408 c:\users\khoa\desktop\carrentaloop\include\ibookandrent.h
+	<bitset>
+	<vector>
+	"Contract.h"
+

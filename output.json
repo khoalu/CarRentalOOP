@@ -1,0 +1,41 @@
+{
+    "id": 0,
+    "typeName": "SUV",
+    "price": 20,
+    "seats": 7,
+    "damage": 0.0,
+    "available": true,
+    "mileage": 0,
+    "serviceHistory": {
+        "data": [
+            {
+                "name": "fluid_change",
+                "beginDay": "1111-01-01T00:00:00Z",
+                "endDay": "0000-00-00T00:00:00Z",
+                "cost": 2000,
+                "beenPaid": false,
+                "mileage": 10000,
+                "location": ""
+            },
+            {
+                "name": "oil_change",
+                "beginDay": "1111-01-01T00:00:00Z",
+                "endDay": "0000-00-00T00:00:00Z",
+                "cost": 5000,
+                "beenPaid": false,
+                "mileage": 30000,
+                "location": ""
+            },
+            {
+                "name": "transmission_overhaul",
+                "beginDay": "1111-01-01T00:00:00Z",
+                "endDay": "0000-00-00T00:00:00Z",
+                "cost": 7000,
+                "beenPaid": false,
+                "mileage": 50000,
+                "location": ""
+            }
+        ]
+    },
+    "contractId": -1
+}
