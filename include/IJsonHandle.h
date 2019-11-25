@@ -22,8 +22,11 @@ class IJsonHandle
     public:
         //virtual Document getDomObject() = 0;
         virtual Document* getDomObject(std::vector<Document*>&) = 0;
-        void printJsonToFile(Document *dom, std::vector<Document*>& arr, std::string filePath)
+        void printJsonToFile(std::string filePath)
         {
+            std::vector<Document*> arr;
+            Document *dom = this->getDomObject(arr);
+
             std::ofstream ofs(filePath);
             OStreamWrapper osw(ofs);
             PrettyWriter<OStreamWrapper> writer(osw);

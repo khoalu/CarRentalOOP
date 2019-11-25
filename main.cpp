@@ -186,7 +186,7 @@ public:
 
         vector<Document*> arr;
         string filePath = "output.json";
-        pVehicle->printJsonToFile(pVehicle->getDomObject(arr), arr, filePath);
+        pVehicle->printJsonToFile(filePath);
         cout << "Done writing to " << filePath << "\n";
     }
 };

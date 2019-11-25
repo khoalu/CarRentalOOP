@@ -35,6 +35,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/CarRentalManagement.h" />
 		<Unit filename="include/Contract.h" />
 		<Unit filename="include/Datetime.h" />
 		<Unit filename="include/IBookAndRent.h" />
